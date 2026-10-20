@@ -1,0 +1,15 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OOP in JavaScript Tutorial</title>
+</head>
+<body>
+    <h1>Object-Oriented Programming (OOP) Principles</h1>
+    <p>Please open the browser console (Press F12, then click "Console") to view the application output and error handling tests.</p>
+    
+    <!-- Linking the external JavaScript file -->
+    <script src="script.js"></script>
+</body>
+</html>
